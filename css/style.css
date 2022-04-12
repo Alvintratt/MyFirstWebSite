@@ -13,7 +13,7 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 0 8px;
-    background-color : #fa8072;
+    background-color : #fa8073;
     color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -37,8 +37,8 @@ nav a:visited {
 
 nav a:hover,
 nav a:active {
-    background-color: #b1461f;
-    color: #dfb666;
+    background-color: #057f8c;
+    color: #fa8073;
 }
 #thisPage {
     background-color: #9d7010;
@@ -48,7 +48,7 @@ nav a:active {
 h1,
 h2,
 h3 {
-    color: Black;
+    color: rgb(0, 0, 0);
 }
 
 h1 {
