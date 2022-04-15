@@ -13,13 +13,13 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 0 8px;
-    background-color : #fa8073;
-    color: black;
+    background-color : rgb(115, 115, 115);
+    color: #ffffff;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 nav ul {
-    text-align: right;
+    text-align: center;
     list-style: none;
 }
 
@@ -41,19 +41,19 @@ nav a:active {
     color: #fa8073;
 }
 #thisPage {
-    background-color: #9d7010;
+    background-color: #b0b451;
     color: #ebe6dc;
 }
 
 h1,
 h2,
 h3 {
-    color: rgb(0, 0, 0);
+    color: rgb(73, 71, 71);
 }
 
 h1 {
-    border-bottom: 4px double #802808;
-    font-style: italic;
+    border-bottom: 4px double #e4ad9a;
+    font-style: italic, bold;
     font-size: 3rem;
     text-align: center;
 }
@@ -87,4 +87,10 @@ footer {
     margin-top: 2rem;
     border-top:1px solid #666666;
     font-style: italic;
+}
+
+p {
+    color: rgb(157, 157, 157)
+    font-style: italic;
+    text-align: center;
 }
