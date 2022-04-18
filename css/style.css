@@ -6,7 +6,7 @@ html, body, header, nav, main, footer, div, section, article, aside {
 }
 
 html {
-    font-size: 24px;
+    font-size: 16px;
 }
 
 body {
@@ -92,6 +92,7 @@ footer {
 
 p {
     color: rgb(157, 157, 157)
+    font-size: 20px;
     font-style: italic;
     text-align: center;
 }
