@@ -14,8 +14,8 @@ body {
     margin: 0 auto;
     padding: 0 8px;
     background-color : rgb(255, 255, 255);
-    color: #ffffff;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000000;
+    font-family: Montserrat;
 }
 
 nav ul {
@@ -48,13 +48,13 @@ nav a:active {
 h1,
 h2,
 h3 {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     text-shadow: #000000;
 }
 
 h1 {
     border-bottom: 4px double #e4ad9a;
-    font-style: italic, bold;
+    font-style: italic;
     font-size: 3rem;
     text-align: center;
 }
